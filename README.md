@@ -9,13 +9,13 @@ This application was built with:
 **React, NodeJS, Express, MongoDB.** 
 
 
-## Motivation and Inspiration
+## Motivation and Inspiration: 
 
 I wanted to create this app to save my gym workouts and to track my progress, instead of using an excel worksheet to track my workouts which I am using currently.
 
 This app was inspired by the VSCode layout in which you can have many folders and each folder can have many different pages.
 
-## Architecture and Design
+## Architecture and Design: 
 
 The app architecture is thus very similar to VSCode. 
 
@@ -62,7 +62,7 @@ This app is also completely mobile responsive.
 ![chrome-capture-2022-8-20 (1)](https://user-images.githubusercontent.com/83682463/191261141-98349dea-ddc1-4290-90f5-aa3a2a345fa1.gif)
 
 
-## Next Version
+## Next Version:
 
 I am currently working on version 2 where there will be authentication, you will be able to track your previous workouts, start a workout with a timer and will contain more apps all in this one dashboard.
 
