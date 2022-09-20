@@ -66,6 +66,6 @@ This app is also completely mobile responsive.
 
 I am currently working on version 2 where there will be authentication, you will be able to track your previous workouts, start a workout with a timer and will contain more apps all in this one dashboard.
 
-The stack I am using for V2 is NextJS, Typescript and NodeJS. So keep a lookout for that!
+The stack I am using for V2 is **NextJS, Typescript and NodeJS.** So keep a lookout for that!
 
 
