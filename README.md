@@ -59,7 +59,7 @@ The reps and weights are dependant on the sets. So if you have 3 sets, you can a
 
 This app is also completely mobile responsive. 
 
-![chrome-capture-2022-8-20 (1)](https://user-images.githubusercontent.com/83682463/191261141-98349dea-ddc1-4290-90f5-aa3a2a345fa1.gif)
+![chrome-capture-2022-8-20 (2)](https://user-images.githubusercontent.com/83682463/191266052-60ed6592-4317-436d-866b-981d08637303.gif)
 
 
 ## Next Version:
