@@ -11,17 +11,27 @@ React, NodeJS, Express, MongoDB.
 
 ## Motivation and Inspiration
 
-I wanted to create this app to save my gym workouts and to track my progress, instead of using an excel worksheet to track my workouts which I am using currently. This app was inspired by the VSCode layout in which you can have many folders and each folder can have many different pages.
+I wanted to create this app to save my gym workouts and to track my progress, instead of using an excel worksheet to track my workouts which I am using currently.
+
+This app was inspired by the VSCode layout in which you can have many folders and each folder can have many different pages.
 
 ## Architecture and Design
 
-The app architecture is thus very similar to VSCode. A user can have many folders and each folder can have many pages. The reason for this is because, say you are running a push/pull workout routine. Creating a folder for push day and adding different pages for your different exercise for each day makes it much easier to track, rather then searching a long list each time. 
+The app architecture is thus very similar to VSCode. 
 
-Therefore, I wanted to reduce the clutter of various gym apps and make it as minimalistic as possible, to allow each user to get to their exercises and sets as quick as possible. 
+*A user can have many folders and each folder can have many pages. The reason for this is because, say you are running a push/pull workout routine.*
 
-The backend uses Express and MongoDB for the database. I felt that since there were not many relationships required, as the only data relationships that was needed was for folder --> pages --> exercises, I felt a document based DB would allow me to quickly grab the required data and display to the users. 
+Creating a folder for push day and adding different pages for your different exercise for each day makes it much easier to track, rather then searching a long list each time. 
 
-The app was designed with TailwindCSS, which is my favourite styling framework due to its lightweight and very adaptable nature and the frontend is made with React. 
+Therefore, I wanted to reduce the clutter of the large majority of gym apps out there and make it mine as minimalistic as possible, to allow each user to get to their exercises and sets as quick as possible. 
+
+The backend uses **Express** and **MongoDB** for the database. 
+
+I felt that since there were not many relationships required, as the only data relationships that was needed was for **folder --> pages --> exercises**, 
+
+I felt a document based DB would allow me to quickly grab the required data and display to the users. 
+
+The app was designed with **TailwindCSS**, which is my favourite styling framework due to its lightweight and very adaptable nature and the frontend is made with **React**. 
 
 
 ## To start:
