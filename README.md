@@ -4,10 +4,10 @@ Hi there,
 
 Thank you for visiting my gym exercise tracker. 
 
-This application was built with
-```
-React, NodeJS, Express, MongoDB. 
-```
+This application was built with:
+
+**React, NodeJS, Express, MongoDB.** 
+
 
 ## Motivation and Inspiration
 
@@ -49,15 +49,18 @@ The app allows you to add a variety of exercises, which you can search from diff
 
 ![chrome-capture-2022-8-20](https://user-images.githubusercontent.com/83682463/191259789-1cc3a3f8-47b8-44b1-861b-33a59c4f91f7.gif)
 
+
 You can add in your exercises and add in your sets, reps and weights. 
 
 The reps and weights are dependant on the sets. So if you have 3 sets, you can add in 3 reps and weight amounts by sliding across. 
 
 ![chrome-capture-2022-8-20 (1)](https://user-images.githubusercontent.com/83682463/191261141-98349dea-ddc1-4290-90f5-aa3a2a345fa1.gif)
 
+
 This app is also completely mobile responsive. 
 
 ![chrome-capture-2022-8-20 (1)](https://user-images.githubusercontent.com/83682463/191261141-98349dea-ddc1-4290-90f5-aa3a2a345fa1.gif)
+
 
 ## Next Version
 
